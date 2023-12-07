@@ -4,7 +4,7 @@
 Este es el README, para el trabajo realizado en la asignatura de Servicios Telemáticos Avanzados, en concreto se trata del trabajo Compartición de Recursos, Audio, en donde se hará uso del servicio de compartición de audio JACK2 y de los sintetizadores de sonido Chuck y Pure Data. Está probado para el sistema operativo linux en concreto para la versión Ubuntu 22.04.
 
 ## Tabla de contenidos 
--[Sistema_Operativo](#Sistema_Operativo)/
+-[Sistema_Operativo](#Sistema_Operativo)
 -[Instalación_JACK2](#Instalación_JACK2)
 -[Instalación_Chuck](#Instalación_Chuck)
 -[Instalación_Pure_Data](#Instalación_Pure_Data)
